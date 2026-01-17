@@ -8,3 +8,7 @@ The goal of this day is to **understand how a TCL-based automation flow can proc
 
 ![Day1 Task Screenshot](tcl_1.png)
 
+## Scenario 1
+
+User does not provide the .csv file
+
